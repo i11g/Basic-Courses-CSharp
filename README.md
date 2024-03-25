@@ -1,1 +1,1 @@
-# The repos includes materials and exercises from C# basic course in SoftUni 
+# The repo includes materials and exercises from C# basic course in SoftUni 
